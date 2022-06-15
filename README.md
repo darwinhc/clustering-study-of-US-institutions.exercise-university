@@ -6,8 +6,14 @@ El clustering permite encontrar patrones en un conjunto de datos y agrupar los r
 ## Fuente
 
 Autor: data.world - @exercises
+
+
 Fecha: Diciembre 21 del 2016
+
+
 Ubicación: https://data.world/exercises/cluster-analysis-exercise-2
+
+
 Tipo de recurso: dataset
 
 
